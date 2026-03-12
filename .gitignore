@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.log
+logs/
+env.sh
+*.db
+*.db-shm
+*.db-wal
+venv/
+node_modules/
+claude-code.log
+claude-code.pid
